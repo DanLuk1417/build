@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Danijela Divjak",
+    "occupation": "Little bit of everything",
+    "description": "During the day I am a full-time mom and at night a freelancer and a full-stack developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Danijela! I've been coding for over 7 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. Among other things I love Traveling, learning about different cultures, reading books and long walking",
+    "contactmessage": "Get in touch with me!",
+    "email": "danluk1417@gmail.com",
+    "phone": "+381 (0) 67 730 11 03",
+    "address": {
+      "street": "Učitelja Miloša Jankovića 14",
+      "city": "Belgrade",
+      "state": "Serbia",
+      "zip": "11000"
+    },
+    "website": "",
+    "resumedownload": "http://danluk1417.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/DacaMarko",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danijela-divjak-8aba2b1b2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tatatirci/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DanLuk1417",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Electrotechnical School Rade Končar",
+        "degree": "Computer engineer, hardware and software",
+        "graduated": "Mey 1998",
+        "description": "My thesis was making animation in the LightWave 3d program. I graduated with the highest grade. "
+      },
+      {
+        "school": "Education center Braca Stamenkovic",
+        "degree": "Accountaning - independent accountant – certified",
+        "graduated": "2008. – 2009."
+      },
+      {
+        "school": "Codecademy",
+        "degree": "Bild Web App with ASP.NET • Building Interactive JavaScript Websites Course • jQuery • Bootstrap • Color Design • How to Deploy a Website • Node.js • Python 3 • React.js • Vue.js • Git • JavaScript • Sass • PHP • Web Scraping with Beautiful Soup • Basics of Blockchain with Python • SQL• CSS • HTML5 • Programming in HTML5 with JavaScript and CSS3",
+        "graduated": "2019. – 2020."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Freelancer",
+        "years": "May 2013 - Present",
+        "description": "Administrative assistant • Virtual assistant • Help in writing a blog • Help in writing a text (Content writer) • Various operations in Excel • Advisor • Physics and mathematics classes • Web development• Responsive Web development • Full Stack Web Development • Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "Mark Zlatesk d.o.o. – Belgrade",
+        "title": "Administrative Assistant and Procurement Officer",
+        "years": "2007. - 2009.",
+        "description": "Preparation of documentation and invoicing • Accountant assistant • Supply maintenance of office equipment and supplies • Procurement• Taking care of data base"
+      },
+      {
+        "company": "PUBLIC UTILITY COMPANY „BEOGRADSKE ELEKTRANE“ – Belgrade",
+        "title": "Energy clerk and Correspondent",
+        "years": "2007. – 2007.",
+        "description": "Reception and validationof technical documentation for connecting to district heating • Making and publishing a license for connection on district heating • Field work • Substation overview and overview of technical documentation "
+      },
+      {
+        "company": "Göteborg Energi International AB, Göteborg – Belgrade",
+        "title": "Secretary and Archivists",
+        "years": "2006. – 2007",
+        "description": "Preparation of documentation • Archiving contracts • Creating documents, presentations, reports • Helping consultants during process of creating contracts • Receive and forward calls and mail, send mail to the country and abroad"
+      },
+      {
+        "company": "PUBLIC UTILITY COMPANY „BEOGRADSKE ELEKTRANE“ – Belgrade",
+        "title": "Archive manager",
+        "years": "2005. – 2006.",
+        "description": "Preparation of documentation • Archiving contracts • Creating documents, presentations, reports •Intermediary in the communication between clients and company• Training new team members • Participation in the recruitment"
+      },
+      {
+        "company": "PUBLIC UTILITY COMPANY „BEOGRADSKE ELEKTRANE“ – Belgrade",
+        "title": "Administrative Assistant",
+        "years": "2004. – 2005",
+        "description": "Receive and forward calls and mail, send mail to the country and abroad • Organizing schedules of vehicles use and conference room • Organization of meetings • Other administrative duties"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid 19 - Tracker (React JS)",
+        "category": "",
+        "image": "../portfolio/covid-19-world-tracker.jpg",
+        "url": ""
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "../portfolio/Amazon.jpg",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "../portfolio/Netflix.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Danijela is absolutely excellent, her depth of knowledge & mentorship really meant a lot to me... I would definitely recommend",
+        "user": "Marko"
+      },
+      {
+        "text": "Working with Danijela has been AWESOME, she my web page work perfect",
+        "user": "Dusica"
+      }
+    ]
+  }
+}
